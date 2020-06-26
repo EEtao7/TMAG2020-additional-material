@@ -14,7 +14,7 @@ We use the analytical models include subdomain model, complex permeance model an
 
 * Subdomain model
 
-  1. • P.-D. Pfister, X. Yin, and Y. Fang, “Slotted permanent-magnet machines: General analytical model of magnetic fields, torque, eddy currents, and permanent-magnet power losses including the diffusion effect,” IEEE Transactions on Magnetics, vol. 52, no. 5, pp. 1–13, May 2016.
+  1. P.-D. Pfister, X. Yin, and Y. Fang, “Slotted permanent-magnet machines: General analytical model of magnetic fields, torque, eddy currents, and permanent-magnet power losses including the diffusion effect,” IEEE Transactions on Magnetics, vol. 52, no. 5, pp. 1–13, May 2016.
   2. B. Hannon, P. Sergeant, and L. Dupré, “Computational-time reduction of fourier-based analytical models,” IEEE Transactions on Energy Conversion, vol. 33, no. 1, pp. 281–289, March 2018.
 
 * Complex permeance model
@@ -23,7 +23,7 @@ We use the analytical models include subdomain model, complex permeance model an
 
 * Relative permeance model
 
-  1. • Z. Q. Zhu and D. Howe, “Instantaneous magnetic field distribution in brushless permanent magnet dc motors. iii. effect of stator slotting,” IEEE Transactions on Magnetics, vol. 29, no. 1, pp. 143–151, Jan 1993.
+  1. Z. Q. Zhu and D. Howe, “Instantaneous magnetic field distribution in brushless permanent magnet dc motors. iii. effect of stator slotting,” IEEE Transactions on Magnetics, vol. 29, no. 1, pp. 143–151, Jan 1993.
 
 #### 1.1.2 Finite element model
 
