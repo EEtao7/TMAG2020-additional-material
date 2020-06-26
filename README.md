@@ -36,5 +36,5 @@ Based on the theory in the above reference, we build every model by MATLAB. The 
 
 ## 2. Error distribution changing with the key parameters
 
- Because of the limitation of the 5 pages for the paper of Intermag 2020, we add some figures about the error distribution changing with the key parameters in the document 'Error distribution changing with the key parameters. pdf'. 
+ Because of the limitation of the 5 pages for the paper of Intermag 2020, we add some figures about the error distribution changing with the key parameters in the document ' Error distribution as a function of the key parameters. pdf'. 
 
