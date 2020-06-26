@@ -10,8 +10,7 @@ We use the analytical models and finite element model in the paper. Because of t
 
 #### 1.1.1 Analytical models
 
-We use the analytical models include subdomain model, complex permeance model and relative permeance models in the paper. We create them by the next references. We provide the pdf version of these reference in the document 'Reference of the models. rar'.
-
+We use the analytical models include subdomain model, complex permeance model and relative permeance models in the paper. We create them by the next references. 
 * Subdomain model
 
   1. P.-D. Pfister, X. Yin, and Y. Fang, “Slotted permanent-magnet machines: General analytical model of magnetic fields, torque, eddy currents, and permanent-magnet power losses including the diffusion effect,” IEEE Transactions on Magnetics, vol. 52, no. 5, pp. 1–13, May 2016.
@@ -30,8 +29,6 @@ We use the analytical models include subdomain model, complex permeance model an
   We use the FEMM  (21Apr2019 version) to create the finite element model. The description of the finite element model is shown in the next reference. 
 
   * Page 144~146, David Meeker, Finite Element Method Magnetics Version 4.2 User’s Manual
-
-   We provide the pdf version of these reference in the document 'Reference of the models. rar'.
 
 ### 1.2 Programs of the models
 
