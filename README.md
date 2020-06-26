@@ -1,6 +1,6 @@
 # TMAG2020 addtional material
 
-This repository includes the supplement of the paper for Intermag 2020: Comparison of subdomain, complex permeance and relative permeance models for a wide family of permanent-magnet machines.
+This repository includes the addtional material of the paper for TMAG: Comparison of subdomain, complex permeance and relative permeance models for a wide family of permanent-magnet machines.
 
 ## 1. Detail information about the analytical models and finite element model
 
